@@ -28,6 +28,8 @@ I'm passionate about solving real-world problems and building tools that automat
 -  **[cronEmail](https://github.com/tannoah0586/cronEmail)**  
   Automated email alerts using Node.js and scheduling logic.
 
+- **[wlc.sg](https://wlc.sg)**
+  local biz website using react and SEO for increase organic traffic.
 ---
 
 ##  GitHub Stats
